@@ -10,7 +10,7 @@ for more information, the report file is in repo.
 for watermark, we extracted these two photos from each picture to figure out if it's fake or not!
 
 
-<img align="right" src="watermark1.jpeg" width="250" height="250">
+<img align="right" src="watermark1.jpeg" width="250" height="50">
 
 
 <img align="left" src="watermark2.jpeg" width="250" height="250">
